@@ -20,9 +20,6 @@ for l in range(linhas):
         print(f'[{matriz[l][c]:^5}]', end='')
     print()
 
-# ava, calculo resistores, reassistir aulas para os calculos, responder questão 4
-# Fazer a parada da matriz de matematica em python se pa.
-
 
 
 
