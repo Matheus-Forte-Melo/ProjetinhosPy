@@ -13,4 +13,3 @@ if abertoQuant != fechadoQuant or apenasParenteses[0] == ')' or apenasParenteses
 else:
     print('A expressão está correta!')
 
-#(a+b)) a + b (
