@@ -1,0 +1,8 @@
+SHINANDEIO BAKA 
+TSUMUSI
+NANDEYO
+def teste():
+    arq = open('cadastro.txt', 'r')
+    for linha in arq:
+        print(linha, end='')
+
