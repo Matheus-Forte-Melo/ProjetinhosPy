@@ -1,12 +1,16 @@
 # ProjetinhosPy
  Mini projetos em python! 
+-----------------------------------------------------------
+AVISOS: Todos os códigos incluídos neste repositório foram criados com o intuito de aprendizado e não representam um trabalho profissional, embora tenham sido feitos esforços para seguir diversas convenções de nomenclatura e de sintaxe visando aprendizado profissional, a estrutura e organização geral podem deixar a desejar. Outros projetos grandes e melhores virão no futuro
 
- DISCLAMER:
- Todos os códigos incluídos neste repositório foram feitos com o intuíto de aprendizado, nada formal. Mesmo tendo seguido muitas convenções de nomenclatura/sintaxe muitas das ideais continuam desorganizadas.
- Note que existem diversas outras pastas incluídas aqui dentro, tais que estão enumeradas de forma que:
+Por favor, observe que há outras pastas adicionais incluídas neste repositório, enumeradas da seguinte forma:
 
- Os menores numeros são os códigos mais recentes, porém com um mindset mais atualizado e com maior conhecimento
- Os maiores numeros são os códigos mais antigos, porém com um mindset mais desatualizado e com menor conhecimento
+As pastas de números menores contêm códigos mais recentes, refletindo uma mentalidade atualizada e um maior conhecimento. As pastas de números maiores contêm códigos mais antigos, que podem refletir uma mentalidade menos atualizada e um menor conhecimento.
 
- Se divirta! (pelo menos tente)
+
+
+
+
+
+
  
