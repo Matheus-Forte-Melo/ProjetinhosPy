@@ -5,7 +5,7 @@ AVISOS: Todos os códigos incluídos neste repositório foram criados com o intu
 
 Por favor, observe que há outras pastas adicionais incluídas neste repositório, enumeradas da seguinte forma:
 
-As pastas de números menores contêm códigos mais recentes, e as pastas de números maiores contêm códigos mais antigos.
+As pastas de números menores contêm códigos mais recentes, e as pastas de números maiores contêm códigos mais antigos
 
 
 
